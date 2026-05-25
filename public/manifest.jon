@@ -1,0 +1,13 @@
+{
+  "name": "Kiki's Matchmaking",
+  "short_name": "Kiki's",
+  "description": "Love, the slow way. Seven stages. Two people. One real connection.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9F7F4",
+  "theme_color": "#D64E7A",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
